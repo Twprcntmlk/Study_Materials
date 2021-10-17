@@ -34,6 +34,7 @@ Data engineers need to take all of this into consideration.
 Ingest
 Process
 Store
+
 Need Pipelines
 Automate flow from one station to the next
 Provide up-to-date, accurate, relavant data
@@ -44,3 +45,35 @@ Transforming
 Combining
 Validating
 Loading
+
+RESPONSIBILITIES
+• Design and develop Data Warehouse and Data Mart solutions to support business reporting requirements of different stakeholders across multiple business verticals including Finance, Marketing, Logistics, Product etc.
+• Conceptualize, design, and development of data models, entities, and relationships
+• Work with the Data Science team to understand data structure and sourcing needs to enable them to build use cases
+• Adhere to processes and design best practices to ensure data extractions meet quality standards and are enhanced for analytical purposes to support “single source of truth”
+• Develop the vision and map strategy to provide proactive solutions and enable stakeholders to extract insights and value from data
+• Understand end to end data interactions and dependencies across complex data pipelines and data transformation and how they impact business decisions
+• Develop ELT solution to load data to/from the Operational Data Store (ODS), Data Warehouse, and Datamart using DBT
+• Work with data engineers to troubleshoot application problems and effectively resolve issues
+• Formalize metadata descriptions and capture methods and workflows
+
+QUALIFICATIONS
+• Knowledge of data warehouse concepts and implementation
+• Experience developing data models in a data warehouse environment; experience with big data architectures
+• Experience working with ETL/ELT concepts of data integration, consolidation, enrichment, and aggregation
+- Extracting,Transforming,Loading
+- ELT stands for "Extract, Load, and Transform." In this process, data gets leveraged via a data warehouse in order to do basic transformations. That means there's no need for data staging. ELT uses cloud-based data warehousing solutions for all different types of data - including structured, unstructured, semi-structured, and even raw data types.
+-
+• Strong understanding of dimensional modeling and similar data warehousing techniques
+• Experience working with relational or multidimensional databases and business intelligence architectures, such as PostgreSQL and Redshift
+
+• Strong understanding of SQL and working knowledge of using SQL (prefer PostgreSQL and Redshift) for various reporting and transformation needs
+• Familiar with at least one of the programming languages: Python, Java
+
+• 2+ years in building a data warehouse and data pipelines or 3+ years in data intensive engineering role
+• Experience running Agile methodology and applying Agile to data engineering
+• Bachelor’s degree or equivalent required
+• Familiarity with AWS ecosystem, including RDS, Redshift, Glue, Athena, etc. a plus
+• Experiences with Apache Hadoop, Hive, Spark and PySpark a plus
+• Familiarity with DBT and AirFlow a plus
+• Familiarity with REST for accessing cloud based services a plus
