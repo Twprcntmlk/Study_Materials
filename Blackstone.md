@@ -1,15 +1,12 @@
 # Job Description:
 ```
-Blackstone Data Architecture’s Web Applications team. This individual will play a key role in developing cutting-edge features for our flagship internal products as well as building bespoke and
-interactive analytical tools and dashboards for our investment teams.
+Blackstone Data Architecture’s Web Applications team. This individual will play a key role in developing cutting-edge features for our flagship internal products as well as building bespoke and interactive analytical tools and dashboards for our investment teams.
 ```
 # Do I Meet Requirements?
-
 ### 1. Strong Python skills
     - I have used Pandas and Seaborn (Data visualization library) at work and have 3 projects which are internal tools for invoicing, leadtime management, and warehouse management.
-    - My RPA, Selenium, and Data Science work all written in Python.
+    - I have used RPA, Selenium, andhave Data Science work all written in Python.
     - I have used Python backend to created Requests. *Django
-
 ### 2. Proficiency in modern frontend technologies
     - Proficient at React, Redux, JavaScript, CSS+ libraries (See Projects!).
 ### 3. Strong foundation in relational databases and SQL
@@ -54,6 +51,9 @@ interactive analytical tools and dashboards for our investment teams.
 ### MY Coding
     - My RPA and pandas projects saved 100s of hours and $100,000+ dollars. and I have no background in coding and noone asked me to do this.
 
+### What do you know about Blackstone?
+    Blackstone is the largest asset management company. Doing business in Real Estate, Private Equity, Hedge Fund Solutions and Credit and Insurance.
+
 ### So, Why is this important?
     - You heard the saying that smart students know how to party and study. Another example is, my teacher at Veritas who was an incredible genius and he always made top 50/100 in the world in the mini flash games.
     - Google and Tesla both agree that the biggest indicator of success is a history or pattern of excellence. The key word here being pattern/history.
@@ -62,31 +62,32 @@ interactive analytical tools and dashboards for our investment teams.
     - and like such, I had created tremendous success and shown courage to pursue what I know is right despite nay sayers and despite any handicap. I give no excuses.
 
 ### Tell me about yourself.
-    - I'm a graduate of Univeristy of Illinois with a Bachelor in Accounting and Minor In Finance. I have a love of Data and after college I took a Data Analyst Role at Quidsi Amazon and learned the business and 2 years later started my own business where I deployed data to move product to where they had greater value. After about 7 years I sold that business and I worked at LG where I taught myself Python, Data Science, got my Six Sigma BlackBelt and created 3 internal tools for invoice management, leadtime and carrier tracking and for warehouse tracking.
-    - Let me know if you want details on any of my projects or my work
-    - I realized that i had a real knack for coding and decided to join A/a and now looking for that coding job where i can do the work that inspired my journey.
-  - 
-### Why Do you want to work at Blackstone?
-    - Well foremost it's because of the job description.
-    - First I love data it is the reason and taught myself coding
-    - and why i built the 3 internal apps in my free time even when it was not my job description.
-    - I love the fact that you are not like Amazon and treat people with respect and investing in good causes.
-    - and I find great joy and fullillment in talking and listen to a varity people and being able to solve problems for people.
+    - I'm a graduate of Univeristy of Illinois with a Bachelor in Accounting and Minor In Finance.  after college I took a Data Analyst Role at Quidsi Amazon and learned the business and grew my passion for data. 2 years later started my own retail abritrage business where I deployed data to gain a competitive edge. ( I can talk about this more if you like) After about 7 years, I sold that business and started working at LG where I taught myself Python, Data Science, got my Six Sigma Black Belt and created 3 main internal tools ONE for invoice management, ANOTHER for leadtime and carrier tracking and ANOTHER for warehouse container tracking.
+    - I realized that I had a real knack for coding and decided to join A/a and Iam now looking for that coding job where i can do the work that inspired my journey.
 
+### Why Do you want to work at Blackstone?
+    - Well foremost it's because of the job description. When Andrew was talking about some of the tools he made I instantly connected.
+    - and when he talked about the need to love data I was hooked it is the reason and taught myself coding
+    - and why i built the 3 internal apps i mentioned in my free time even when it was not my job description.
+    - and I find great joy and fullillment in talking and listening to a variety of people and being able to solve problems for people.
+    - sometime big problems are so unruly but these small cases I have a lot of confidence and experience solving.
+    - I really like Blackstone's philophies of Making a Positive Impact
+    - 
 ### Tell me about a conflict you had.
+    - I had my VP tell me when their is any dispute in business you simply go fact based of course that has some wrinkles.
     - I has a conflict with the owner of a company. I was in charge of essentially running the business.
-    - We were headed towards trouble because of changing business environment
+    - We were headed towards trouble because of changing business environment. (I can elaborate if you like.)
     - so I did presentations and talked to him personally about the changes we need to make.
     - He would agree and say thing like if only i was 10 years younger but what i didn't understand was that he deeply wanted to retire
     - so changing and spending money was not something he wanted to do even if he knew it was what he needed to do.
     - In this case I had to learn to make best of a losing situation and learn to be okay with not winning.
 
 ### What is your greatest Strength
-    - My greatest strength is ability to listen deeply and keep an open mind. Because as a solo owner I had to be adaptive, be detailed oriented and be willing to hear hard truths.
+    - My greatest strength is ability to listen deeply and keep an open mind. As a busines owner I had to be adaptive, be detailed oriented and be willing to hear hard truths.
     - For example, my employee would ask me what to do and I would say "everything is case by case" which for me meant dont assume anything and try to see the problem and understand deeply.
 
 ### What is your greatest Weakness
-    - My greatest weakness is my hatred of losing. Sometimes I would fail my a small amount and I would then sort of obessively try to fix the issue and get bogged down
+    - My greatest weakness is my hatred of losing/failing. Sometimes I would fail my a small amount and I would then sort of obessively try to fix the issue and get bogged down
     - trying to correct myself or trying to get something to work. For example, (story with older person)
     - I had to learn to sometimes take a loss, digest and move on knowing that sometimes a loss is okay and that try to just be better on other problems moving forward.
     - and 2 apparently my face on web cams.
