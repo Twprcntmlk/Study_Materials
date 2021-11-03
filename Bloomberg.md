@@ -11,10 +11,10 @@
     - sometime big problems are so unruly but these small cases I have a lot of confidence and experience solving.
 
 # Tell me about recent financial news
-    - Recently Trump launched DWAC, a social media firm ,which recently gained a lot of  value from memery and linger emotions.
+    - Recently Trump launched DWAC(Digital World Acquisition Corp), a social media firm ,which recently gained a lot of  value from meme-ry and linger emotions.
     - I think this kind of buying on volatility and lack of fundamentals is dangerous and we are seeing this trend more and more with AMC and GameStop.
     - This sort of behaviour is being promoted through sites like reddit and twitter and I think it is something Bloomberg should take note of
-    - because retail buys may start shying away from established new sources for none traditional one if money can be made from following reddit.
+    - because retail buyers may start shying away from established new sources for none traditional one if money can be made from following reddit.
 
 # What is OOP
 Object-oriented programming is a programming paradigm that provides a means of structuring programs so that properties and behaviors are bundled into individual objects.
